@@ -2,7 +2,8 @@
 ---
 
 <div align="center">
-<img src="[[https://br.pinterest.com/pin/512214157611273861/)](https://br.pinterest.com/pin/512214157611273861/)](https://br.pinterest.com/pin/22166223163456408/)" width="1010px" />
+<img src="<img width="562" height="203" alt="image" src="https://github.com/user-attachments/assets/7f3fd242-05ae-447f-ba4a-9b62e85b464b" />
+" width="1010px" />
 </div>
 
 
