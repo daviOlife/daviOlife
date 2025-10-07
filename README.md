@@ -2,8 +2,8 @@
 ---
 
 <div align="center">
-<img src="<img width="562" height="203" alt="image" src="https://github.com/user-attachments/assets/7f3fd242-05ae-447f-ba4a-9b62e85b464b" />
-" width="1010px" />
+<img src="<img width="562" height="203" alt="image" src="https://github.com/user-attachments/assets/2f0a162e-1947-4a34-8e3e-24760dc85334" />"
+
 </div>
 
 
